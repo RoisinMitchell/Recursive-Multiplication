@@ -1,3 +1,10 @@
+/*
+ ============================================================================
+ Name        : multRecursiveDriver.java
+ Author      : Roisin Mitchell
+ Description : Driver for multiplication method
+ ============================================================================
+ */
 public class multRecursiveDriver {
     public static void main(String[] args){
         int x = (int) (Math.random() * 100);
